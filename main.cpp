@@ -14,7 +14,7 @@ int main() {
   sumaDobanda = suma * procentDobanda /100 * perioada;
   sumaTotala = suma + sumaDobanda;
   cout << "Dobanda platita de " << procentDobanda << " % pe o perioada de " << perioada << " ani pentru o suma de " << suma << " este " << sumaDobanda << endl;
-  cout << "Deci suma totala care se va plati in " << perioada << " este de " << sumaTotala << endl;
+  cout << "Deci suma totala care se va plati in " << perioada << " ani este de " << sumaTotala << endl;
   cout << endl;
   return 0;  
 }
